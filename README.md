@@ -21,16 +21,20 @@
 ### 🖥️ Programming Languages
 <p align="center">
   <a href="https://www.python.org" target="_blank">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&animation=fade-in" alt="Python"/>
+    <img src="https://skillicons.dev/icons?i=python" height="40" alt="python logo"  />
   </a>
   <a href="https://isocpp.org/" target="_blank">
     <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
+    <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"  />
   </a>
   <a href="https://www.java.com" target="_blank">
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+    <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
   </a>
   <a href="https://dotnet.microsoft.com/en-us/languages/csharp" target="_blank">
     <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
+    <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo"  />
   </a>
 </p>
 
@@ -38,15 +42,19 @@
 <p align="center">
   <a href="https://reactjs.org/" target="_blank">
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+    <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
   </a>
   <a href="https://reactnative.dev/" target="_blank">
     <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native"/>
+    <img src="https://skillicons.dev/icons?i=react" height="40" alt="reactnative logo"  />
   </a>
   <a href="https://tailwindcss.com/" target="_blank">
     <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
+    <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwind logo"  />
   </a>
   <a href="https://vitejs.dev/" target="_blank">
     <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite"/>
+    <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo"  />
   </a>
 </p>
 
@@ -54,17 +62,23 @@
 <p align="center">
   <a href="https://nodejs.org/" target="_blank">
     <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS"/>
+    <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
   </a>
   <a href="https://www.mongodb.com/" target="_blank">
     <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+    <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
   </a>
   <a href="https://www.mysql.com/" target="_blank">
     <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+    <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
   </a>
   <a href="https://dotnet.microsoft.com/" target="_blank">
     <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt=".NET"/>
+    <img src="https://skillicons.dev/icons?i=dotnet" height="40" alt="dotnet logo"  />
   </a>
 </p>
+
+<!-- Rest of the README remains the same as in the previous version -->
 
 ## 🎯 Notable Projects
 
