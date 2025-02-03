@@ -1,5 +1,6 @@
-
+<h1 align="left">
   <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></picture>
+</h1>
 <h1 align="center">
   Hi there, I'm Chaveen Dias <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.gif" width="50">
 </h1>
