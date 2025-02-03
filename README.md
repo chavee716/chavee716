@@ -12,7 +12,7 @@
 ## 🎓 About Me
 
 
-- 🎓 BSc Hons. Computer Engineering Undergraduate at [University of Ruhuna](https://www.ruh.ac.lk/)
+- 🎓 BSc Hons. Computer Engineering Undergraduate at [Faculty of Engineering, University of Ruhuna](https://www.eng.ruh.ac.lk/)
 - 💡 Passionate about Machine Learning, AI, and Full Stack Development
 - 🚀 Always exploring new technologies and frameworks
 - 📫 How to reach me: chaveendias@gmail.com
@@ -106,12 +106,6 @@
   </a>
 </p>
 
-## 🏆 Certifications
-- Data Science Tools (IBM)
-- Python Intermediate (University of Moratuwa)
-- Supervised Machine Learning (Stanford University)
-- Unsupervised Machine Learning (Stanford University)
-- SQL & Java Intermediate (SoloLearn)
 
 ## 🤝 Connect With Me
 <p align="center">
