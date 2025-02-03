@@ -11,11 +11,10 @@
 <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 
 - 🎓 BSc Hons. Computer Engineering Undergraduate at [University of Ruhuna](https://www.ruh.ac.lk/)
-- 🌟 Current GPA: 3.49
 - 💡 Passionate about Machine Learning, AI, and Full Stack Development
 - 🚀 Always exploring new technologies and frameworks
 - 📫 How to reach me: chaveendias@gmail.com
-- 🔗 LinkedIn: [chaveen-dias](https://www.linkedin.com/in/chaveen-dias)
+- 🔗 LinkedIn: [chaveen-dias](https://www.linkedin.com/in/chaveen-dias-8935b5288/)
 
 ## 🛠️ Technical Skills
 
@@ -79,7 +78,7 @@
 ## 🤝 Connect With Me
 <p align="center">
   <a href="mailto:chaveendias@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/chaveen-dias" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/chaveen-dias-8935b5288/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://github.com/chavee716" target="_blank"><img src="https://img.shields.io/badge/-GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 </p>
 
