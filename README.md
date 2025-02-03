@@ -11,7 +11,6 @@
 
 ## 🎓 About Me
 
-<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 
 - 🎓 BSc Hons. Computer Engineering Undergraduate at [University of Ruhuna](https://www.ruh.ac.lk/)
 - 💡 Passionate about Machine Learning, AI, and Full Stack Development
