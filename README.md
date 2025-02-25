@@ -101,10 +101,11 @@
 
 <p align="center">
   <a href="https://github.com/chavee716">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=chavee716&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chavee716&layout=compact&langs_count=7&theme=tokyonight"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=chavee716&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=1800"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chavee716&layout=compact&langs_count=7&theme=tokyonight&cache_seconds=1800"/>
   </a>
 </p>
+
 
 
 ## 🤝 Connect With Me
