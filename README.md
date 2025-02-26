@@ -13,7 +13,7 @@
 
 
 - 🎓 BSc Hons. Computer Engineering Undergraduate at [Faculty of Engineering, University of Ruhuna](https://www.eng.ruh.ac.lk/)
-- 💡 Passionate about Machine Learning, AI, and Full Stack Development
+- 💡 Passionate about DevOps, Machine Learning, AI, and Full Stack Development
 - 🚀 Always exploring new technologies and frameworks
 - 📫 How to reach me: chaveendias@gmail.com
 - 🔗 LinkedIn: [chaveen-dias](https://www.linkedin.com/in/chaveen-dias-8935b5288/)
