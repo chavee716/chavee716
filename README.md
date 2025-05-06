@@ -1,4 +1,4 @@
-![Chaveen Dias GitHub Banner](https://raw.githubusercontent.com/chavee716/github-profile-assets/main/banner.jpg)
+<img src="https://github.com/chavee716/github-profile-assets/raw/main/banner.jpg" alt="Chaveen Dias Banner" width="100%">
 
 # Chaveen Dias
 
