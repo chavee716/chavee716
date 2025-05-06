@@ -32,12 +32,6 @@ Computer Engineering Undergraduate | Machine Learning & AI Enthusiast | Full Sta
 - ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) MySQL
 - ![.NET](https://img.shields.io/badge/-.NET-5C2D91?style=flat-square&logo=.net&logoColor=white) .NET
 
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chavee716&show_icons=true&theme=default&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chavee716&layout=compact&theme=default&hide_border=true)
-
-
 ## 🤝 Connect With Me
 <p align="center">
   <a href="mailto:chaveendias@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
